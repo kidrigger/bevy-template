@@ -1,0 +1,5 @@
+#+title: Readme
+
+*** Bevy Template
+- Setup for bevy with Mold, incremental builds and spew based spwaner
+- Created to be used as a base for specific templates

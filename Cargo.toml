@@ -1,0 +1,11 @@
+[package]
+name = "bevy_template"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bevy = { version = "0.10.1", features = ["bevy_dynamic_plugin", "dynamic_linking"] }
+bevy-inspector-egui = "0.18.3"
+spew = "0.2.2"
